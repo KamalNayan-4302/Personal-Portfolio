@@ -1,0 +1,2 @@
+# Personal Portfolio
+ A modern and responsive portfolio designed using React and Tailwind CSS to highlight my skills, projects, and achievements. It features an interactive project gallery, streamlined navigation, and social media integration to enhance user engagement. Built with performance and usability in mind, this portfolio reflects my expertise in crafting intuitive and visually appealing web applications.
