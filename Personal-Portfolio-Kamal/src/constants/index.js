@@ -1,6 +1,6 @@
 import project1 from "../assets/projects/LawEase.jpg";
 import project2 from "../assets/projects/ExpenseManagement.jpg";
-import project3 from "../assets/projects/portfolio.jpg";
+import project3 from "../assets/projects/portfolio.png";
 import project4 from "../assets/projects/Taskly.jpg";
 import project6 from "../assets/projects/NeuroLock.webp";
 import project5 from "../assets/projects/project-5.jpg";
